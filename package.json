@@ -1,0 +1,26 @@
+{
+  "name": "test-pw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaril/test-pw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaril/test-pw/issues"
+  },
+  "homepage": "https://github.com/jaril/test-pw#readme",
+  "dependencies": {
+    "@playwright/test": "1.19",
+    "@replayio/playwright": "^0.2.5"
+  }
+}
