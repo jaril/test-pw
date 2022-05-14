@@ -5,13 +5,13 @@ const config = {
 	retries: process.env.CI ? 2 : 0,
 	use: {
 		trace: "on-first-retry",
-		defaultBrowserType: "firefox",
+		defaultBrowserType: "chromium",
 	},
 	projects: [
 		{
-			name: "firefox",
+			name: "replay-chromium",
 			use: {
-				...devices["Replay Firefox"],
+				...devices["Replay Chromium"],
 			},
 		},
 	],
