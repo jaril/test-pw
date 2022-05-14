@@ -2,6 +2,11 @@ name: Run CI
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  '30 5 * * *'
   pull_request:
     types: [opened, synchronize, reopened]
 
