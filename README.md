@@ -19,3 +19,4 @@ Now we have random tests!
 - Use bookmark times when computing times for points, use consistent
 - Generate pretty print source map entries in subworker
 - Fix test path query to match on text instead of json to leverage index
+- Handle processes that ran forward a little before entering a perma
