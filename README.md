@@ -7,3 +7,4 @@ Now we have random tests!
 - Fix minor syntax bugs in windows multibyte code
 - pulumi: add image repository for namespace cleaner
 - buildkite: update to plugin version that supports ephemeral environme
+- Support unpublished (private) comments
