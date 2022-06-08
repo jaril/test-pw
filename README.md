@@ -12,3 +12,4 @@ Now we have random tests!
 - Lint fix
 - Make comments public by default, and isPublished param optional
 - Add recording warnings for more instrumentation problems
+- Fix some problems handling messages in replacement controllers
