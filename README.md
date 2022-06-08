@@ -10,3 +10,4 @@ Now we have random tests!
 - Support unpublished (private) comments
 - Filter private comments not belonging to the current user
 - Add is_published field to GraphQL Comments and Replies
+- buildkite: fix graphql ephemeral environment instructions
