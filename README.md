@@ -8,3 +8,4 @@ Now we have random tests!
 - pulumi: add image repository for namespace cleaner
 - buildkite: update to plugin version that supports ephemeral environme
 - Support unpublished (private) comments
+- Support public recordings that might not have an authenticated user
