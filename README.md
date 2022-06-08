@@ -9,3 +9,4 @@ Now we have random tests!
 - buildkite: update to plugin version that supports ephemeral environme
 - Support unpublished (private) comments
 - Support public recordings that might not have an authenticated user
+- Lint fix
