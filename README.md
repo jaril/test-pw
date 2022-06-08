@@ -9,3 +9,4 @@ Now we have random tests!
 - buildkite: update to plugin version that supports ephemeral environme
 - Support unpublished (private) comments
 - Filter private comments not belonging to the current user
+- Add is_published field to GraphQL Comments and Replies
