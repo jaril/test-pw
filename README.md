@@ -10,3 +10,4 @@ Now we have random tests!
 - Support unpublished (private) comments
 - Support public recordings that might not have an authenticated user
 - Lint fix
+- Make comments public by default, and isPublished param optional
