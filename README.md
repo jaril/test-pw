@@ -18,3 +18,4 @@ Now we have random tests!
 - Fix bucket lookup for recordings before initialization
 - Use bookmark times when computing times for points, use consistent
 - Generate pretty print source map entries in subworker
+- Fixes and cleanup for pretty printer whitespace handling
