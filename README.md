@@ -17,3 +17,4 @@ Now we have random tests!
 - Add is_published field to GraphQL Comments and Replies
 - Fix bucket lookup for recordings before initialization
 - Use bookmark times when computing times for points, use consistent
+- Generate pretty print source map entries in subworker
