@@ -19,5 +19,4 @@ Now we have random tests!
 - Use bookmark times when computing times for points, use consistent
 - Generate pretty print source map entries in subworker
 - Fixes and cleanup for pretty printer whitespace handling
-- Merge branch 'master' into source-slicing
 - Check that sliced scopes are a subset of the full scopes instead of
