@@ -13,3 +13,6 @@ Now we have random tests!
 - Make comments public by default, and isPublished param optional
 - Add recording warnings for more instrumentation problems
 - Fix some problems handling messages in replacement controllers
+- Filter private comments not belonging to the current user
+- Add is_published field to GraphQL Comments and Replies
+- Fix bucket lookup for recordings before initialization
