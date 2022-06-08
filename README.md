@@ -17,3 +17,4 @@ Now we have random tests!
 - Add is_published field to GraphQL Comments and Replies
 - Fix bucket lookup for recordings before initialization
 - Improvements to butter score measurements
+- Directly expose dispatcher pod IP via service and use for controller
