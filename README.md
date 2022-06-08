@@ -16,3 +16,4 @@ Now we have random tests!
 - Filter private comments not belonging to the current user
 - Add is_published field to GraphQL Comments and Replies
 - Fix bucket lookup for recordings before initialization
+- Use bookmark times when computing times for points, use consistent
