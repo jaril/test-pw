@@ -1,1 +1,3 @@
-# For Jaril's stuff 3
+# README
+
+Now we have random tests!
